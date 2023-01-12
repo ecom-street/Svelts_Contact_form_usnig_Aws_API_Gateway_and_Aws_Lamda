@@ -127,7 +127,10 @@ Amazon SES requires that you verify your identities (the domains or email addres
 9. Actions -> Deploy API -> Deployment Stage (New Stage) -> Dev as Stage Name -> Deploy.
 10. Your POST API is Now deployed.
 11. Copy the INVOKE URL.
-12. POST call this INVOKE URL with message param in body to send the email.
+
+<img width="940" alt="api_url" src="https://user-images.githubusercontent.com/115148205/212031649-c6ebd566-fedd-4c6c-81b4-b3de5ff50d8a.PNG">
+
+13. POST call this INVOKE URL with message param in body to send the email.
 
 # Connecting it all Together
 
